@@ -1,0 +1,9 @@
+@import url("/style/header.css");
+:rott{
+    --cor-de-fundo; background-color: ;#EBECEE;
+ --branco: #FFFFFF ;
+}
+
+body{ background-color: var(--cor-de-fundo);
+
+}
